@@ -7,7 +7,7 @@ This privacy notice discloses the privacy practices for the Birthday Remainder A
 What personally identifiable information is collected from you through the Alexa Skill, how it is used and with whom it may be shared.
 The security procedures in place to protect the misuse of your information.
 
-<b>Information Collection, Use, and Sharing</b>
+<b>Information We Collected, Use, and Sharing</b>
 
 We are the sole owners for the following information collected on this alexa skill. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
