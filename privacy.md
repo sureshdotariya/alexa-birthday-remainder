@@ -11,7 +11,7 @@ This privacy notice discloses the privacy practices for the Birthday Remainder A
 
 We are the sole owners for the following information collected on this alexa skill. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party vendors.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party vendors and will not use your information for our personal reasons.
 
  <ul><li>Name</li><li>Date Of Bith</li></ul>
 
