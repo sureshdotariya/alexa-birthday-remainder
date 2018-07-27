@@ -17,4 +17,4 @@ We will use your information to respond to you, regarding the reason you contact
 
 We take precautions to protect your information. When you submit sensitive information via the Alexa Skill, your information is protected both online and offline.
 
-Wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+Wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. 
