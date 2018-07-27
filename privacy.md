@@ -9,11 +9,13 @@ The security procedures in place to protect the misuse of your information.
 
 <b>Information Collection, Use, and Sharing</b>
 
-We are the sole owners of the information collected on this alexa skill. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+We are the sole owners for the following information collected on this alexa skill. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party vendors.
 
-<b>Security</b>
+ <ul><li>Name</li><li>Date Of Bith</li></ul>
+
+<b>Security Guidelines</b>
 
 We take precautions to protect your information. When you submit sensitive information via the Alexa Skill, your information is protected both online and offline.
 
