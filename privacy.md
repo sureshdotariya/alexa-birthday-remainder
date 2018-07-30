@@ -17,6 +17,6 @@ We will not share your personal information to any other third party vendors and
 
 <b>Security Guidelines</b>
 
-We take precautionary steps to protect your personal information. When you submit sensitive information via the Alexa Skill, your information is protected both online and offline.
+We take precautionary steps to protect your personal information. When you submit sensitive information via the Alexa Skill, your information is stored in the AWS Database server and protected both online and offline.
 
-Wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. 
+Wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way using HTTPS protocol. While we use encryption to protect sensitive information transmitted online, we also protect your information offline. 
